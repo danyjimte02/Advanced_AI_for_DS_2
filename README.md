@@ -18,6 +18,7 @@ Este repositorio incluye actividades relacionadas con Big Data, Cómputo en la N
 
 ### **Cómputo en la Nube**
 - `DiseñoCloud_Equipo5.pdf`: Proyecto colaborativo sobre diseño en la nube.
+- `Evidencia_CloudComputing.pdf`: Evidencia del módulo.
 
 ### **Estadística**
 - **Análisis y transformación de datos**:
